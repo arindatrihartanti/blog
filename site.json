@@ -70,7 +70,17 @@
         "readtime": 1,
         "videos": {},
         "images": {},
-        "status": ""
+        "status": "",
+        "files": [
+          {
+            "path": "[object Object]voice-recording-250790.90000000596.mp3",
+            "fullUrl": "//home/arindatrihartanti/blog/files/voice-recording-250790.90000000596.mp3",
+            "url": "files/voice-recording-250790.90000000596.mp3",
+            "type": "audio/mpeg",
+            "name": "voice-recording-250790.90000000596.mp3",
+            "size": 33312
+          }
+        ]
       }
     },
     {
